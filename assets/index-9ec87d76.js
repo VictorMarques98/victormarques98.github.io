@@ -1,1 +1,0 @@
-import{n as o}from"./index-802d00b1.js";const n=(r,f)=>f==="error"?o.error(r,{duration:4e3,style:{background:"#ff0000",color:"#fff"}}):f==="success"?o.success(r,{duration:4e3,style:{background:"#4BB543",color:"#fff"}}):o(r);export{n as s};
